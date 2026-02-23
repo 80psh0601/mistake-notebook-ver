@@ -1,0 +1,18 @@
+{
+  "android": {
+    "force_version": "1.0.0",
+    "recommended_version": "1.0.20"
+  },
+  "ios": {
+    "force_version": "1.0.0",
+    "recommended_version": "1.0.20"
+  },
+  "windows": {
+    "force_version": "1.0.0",
+    "recommended_version": "1.0.20"
+  },
+  "macos": {
+    "force_version": "1.0.0",
+    "recommended_version": "1.0.20"
+  }
+}
