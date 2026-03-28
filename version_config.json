@@ -1,5 +1,5 @@
 {
-  "ad_display_start": "2026-04-01",
+  "ad_display_start": "2026-05-01",
   "ad_display_end": "2050-12-31",
   "android": {"force_version": "1.0.0", "recommended_version": "1.1.5"},
   "ios": {"force_version": "1.0.0", "recommended_version": "1.1.5"},
